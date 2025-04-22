@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    background-image: url(../maxresdefault.jpg);
+    background-image: url(Imagenes/maxresdefault.jpg);
     color: azure;
 }
 
@@ -32,7 +32,13 @@ title{
     background-color: wheat;
 }
 
-/* === HEADING STYLE #2 === */
+.adkk{
+    margin: 460px 25px 25px 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: wheat;
+}
+
+
 .two h1 {
   text-transform: capitalize;
   margin-left: 20px;
@@ -62,4 +68,18 @@ title{
 }
 .alt-two h1:before {
   left:50%; margin-left:-30px;
+}
+
+.parrafo1{
+  position: absolute;
+  font-size: 17px;
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 21px;
+  color: wheat;
+}
+
+.img-secun {
+  margin-left: 21px;
+   width: 30%;
 }
